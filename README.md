@@ -3,6 +3,7 @@
 **`Desenvolvedora FullStack`**
 
 - Estudante do curso Técnico em informática no IFMT - Campus Rondonópolis;
+<br/>
 
     </a> 
     <a href="https://github.com/EduardaABrito?tab=repositories&sort=stargazers">
