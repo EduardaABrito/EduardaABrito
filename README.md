@@ -5,8 +5,8 @@
 - Estudante do curso Técnico em informática no IFMT - Campus Rondonópolis;
 <br/>
 
-    </a> 
-    <a href="https://github.com/EduardaABrito?tab=repositories&sort=stargazers">
+</a> 
+<a href="https://github.com/EduardaABrito?tab=repositories&sort=stargazers">
         
 <img alt="Total de estrelas" title="Total de estrelas GitHub" src="https://custom-icon-badges.demolab.com/github/stars/EduardaABrito?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
         />
