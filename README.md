@@ -4,23 +4,9 @@
 
 - Estudante do curso Técnico em informática no IFMT - Campus Rondonópolis;
 <br/>
-
-</a> 
-<a href="https://github.com/EduardaABrito?tab=repositories&sort=stargazers">
-        
-<img alt="Total de estrelas" title="Total de estrelas GitHub" src="https://custom-icon-badges.demolab.com/github/stars/EduardaABrito?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
-</a>
- <a href="https://github.com/EduardaABrito?tab=followers">
-        <img alt="Seguidores" title="Me siga no GitHub" src="https://custom-icon-badges.demolab.com/github/followers/EduardaABrito?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
-</p>
-
 ---
-
-### Linguagens
-
+## Linguagens
+<br/>
 <img 
     align="left" 
     alt="HTML"
@@ -70,6 +56,24 @@
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="MySQL" 
+    title="MySQL"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"
+/>
+
+<img
+    align="left"
+    alt="PostgreeSQL"
+    title="PostgreeSQL"
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain.svg"
 />
 
 <br/>
