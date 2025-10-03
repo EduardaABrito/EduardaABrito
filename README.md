@@ -95,3 +95,15 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduardaABrit
   />
 
 </p>
+
+--- 
+<BR/>          
+
+### Entre em contato: <br/>
+🖂 duda.britof22@gmail.com <br/>
+
+
+---
+### 𝗙𝗼𝗹𝗹𝗼𝘄 𝗺𝗲: <BR/>
+𝐈𝐧𝐬𝐭𝐚𝐠𝐫𝐚𝐦🅾 
+[iam_dudaab](https://www.instagram.com/iam_dudaab?igsh=MTdpeXlzMDhhc3Z6ZA==)
