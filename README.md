@@ -87,7 +87,9 @@
 ---
        
 ### Entre em contato: <br/>
-🖂 duda.britof22@gmail.com <br/>
+🖂 GMAIL duda.britof22@gmail.com <br/>
+🖃 LINKEDIN [Eduarda Alencar Brito](www.linkedin.com/in/duardaalencarbrito)
+
 
 
 ---
