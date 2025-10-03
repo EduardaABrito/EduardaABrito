@@ -5,7 +5,6 @@
 - Estudante do curso Técnico em informática no IFMT - Campus Rondonópolis;
 ---
 ## Linguagens
-<br/>
 <img 
     align="left" 
     alt="HTML"
