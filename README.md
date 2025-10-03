@@ -98,7 +98,6 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduardaABrit
 
 --- 
 <BR/>          
-
 ### Entre em contato: <br/>
 🖂 duda.britof22@gmail.com <br/>
 
