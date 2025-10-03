@@ -94,10 +94,8 @@ src="https://github-readme-stats.vercel.app/api?username=EduardaABrito&show_icon
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduardaABrito&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
-</p>
+</p> 
 <BR/>
---- 
-
 <BR/>          
 ### Entre em contato: <br/>
 🖂 duda.britof22@gmail.com <br/>
