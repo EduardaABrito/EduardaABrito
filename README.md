@@ -2,7 +2,8 @@
 
 **`Desenvolvedora FullStack`**
 
-- Estudante do curso Técnico em informática no IFMT - Campus Rondonópolis;
+- Técnica em informática IFMT - Campus Rondonópolis;
+- Engenharia Elétrica 1/5
 ---
 ## Linguagens
 <img 
